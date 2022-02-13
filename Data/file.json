@@ -1,1 +1,176 @@
-{"profile":{"user":{"name":"Pranjal Singh","email":"pranjaljolly2000@gmail.com"},"about":{"number":"8982600640","label":"Senior @ IIT D  |  Developer","summary":"A serious looking funny guy. Stepping into Dev. Good food is good mood.","imgUrl":"https://pbs.twimg.com/profile_images/538456309603913728/ihbvZL7s_400x400.jpeg"},"location":{"addressline1":"Zanskar hostel","addressline2":"IIT Delhi","city":"New Delhi","pincode":"110016","country":"India"},"education":[{"_id":"611363d3cdefb80049b91385","institution":"Indian Institute of Technology Delhi","area":"Biotechnology","qualification":"Btech","startdate":"2018","enddate":"Ongoing","gpa":"8.39","details":"Biochemical Engineering and Biotechnology","hidden":false}],"work":[{"_id":"62078eab0ad8db00498fe936","company":"QuickSell","position":"Backend Developer","website":"https://quicksell.co/","startdate":"03/01/22","enddate":"Ongoing","summary":"Currently working as an Intern","hidden":false},{"_id":"611363d3cdefb80049b91386","company":"Probo","position":"Software Development Intern","website":"www.probo.in","startdate":"01/06/2021","enddate":"31/07/2021","summary":"Worked on developing the internal tools that power the current products","hidden":false}],"volunteer":[{"_id":"611363d3cdefb80049b91387","organisation":"Aahvan Ek Pahal","position":"Volunteer","website":"","startdate":"May 2019","enddate":"June 2019","summary":"Organized summer camp for underprivileged children","hidden":false},{"_id":"620791980ad8db00498fe9a1","organisation":"Dance Club IIT Delhi","position":"Hostel Representative","website":"","startdate":"2019","enddate":"2020","summary":"Conducted & co-organized extensive dance workshops in hostel to engage freshers in the inter-hostel events of the Dance Club","hidden":false}],"awards":[{"_id":"611363d3cdefb80049b91388","title":"","date":"","awarder":"","details":"","hidden":false}],"publications":[{"_id":"611363d3cdefb80049b91389","name":"","publisher":"","releaseDate":"","website":"","summary":"","hidden":false}],"skills":[{"_id":"611363d3cdefb80049b9138a","name":"C++","level":"Option2","keywords":"","hidden":false},{"_id":"6207909c0ad8db00498fe97b","name":"NodeJs","level":"Option2","keywords":"","hidden":false},{"_id":"620790f40ad8db00498fe989","name":"ReactJs","level":"Option2","keywords":"","hidden":false},{"_id":"620790f40ad8db00498fe98a","name":"JavaScript","level":"Option2","keywords":"","hidden":false},{"_id":"620790f40ad8db00498fe98b","name":"Java","level":"Option2","keywords":"","hidden":false},{"_id":"620790f40ad8db00498fe98c","name":"Data Structure and Algorithms","level":"Option3","keywords":"","hidden":false}],"languages":[{"_id":"611363d3cdefb80049b9138b","language":"English","fluency":"Good","hidden":false},{"_id":"611363d3cdefb80049b9138c","language":"Hindi","fluency":"Great","hidden":false},{"_id":"611363d3cdefb80049b9138d","language":"German","fluency":"Beginner","hidden":false}],"interests":[{"_id":"611363d3cdefb80049b9138e","name":"Video gaming","keywords":"CS:GO, Valorant","hidden":false}],"references":[{"_id":"611363d3cdefb80049b9138f","name":"","reference":"","hidden":false}]}}
+{
+  "profile": {
+    "user": { "name": "Pranjal Singh", "email": "pranjaljolly2000@gmail.com" },
+    "about": {
+      "number": "8982600640",
+      "label": "Senior @ IIT D  |  Developer",
+      "summary": "A serious looking funny guy. Stepping into Dev. Good food is good mood.",
+      "imgUrl": "https://pbs.twimg.com/profile_images/538456309603913728/ihbvZL7s_400x400.jpeg"
+    },
+    "location": {
+      "addressline1": "Zanskar hostel",
+      "addressline2": "IIT Delhi",
+      "city": "New Delhi",
+      "pincode": "110016",
+      "country": "India"
+    },
+    "education": [
+      {
+        "_id": "611363d3cdefb80049b91385",
+        "institution": "Indian Institute of Technology Delhi",
+        "area": "Biotechnology",
+        "qualification": "Btech",
+        "startdate": "2018",
+        "enddate": "Ongoing",
+        "gpa": "8.39",
+        "details": "Biochemical Engineering and Biotechnology",
+        "hidden": false
+      }
+    ],
+    "work": [
+      {
+        "_id": "62078eab0ad8db00498fe936",
+        "company": "QuickSell",
+        "position": "Backend Developer",
+        "website": "https://quicksell.co/",
+        "startdate": "03/01/22",
+        "enddate": "Ongoing",
+        "summary": "Currently working as an Intern",
+        "hidden": false
+      },
+      {
+        "_id": "611363d3cdefb80049b91386",
+        "company": "Probo",
+        "position": "Software Development Intern",
+        "website": "www.probo.in",
+        "startdate": "01/06/2021",
+        "enddate": "31/07/2021",
+        "summary": "Worked on developing the internal tools that power the current products",
+        "hidden": false
+      }
+    ],
+    "volunteer": [
+      {
+        "_id": "611363d3cdefb80049b91387",
+        "organisation": "Aahvan Ek Pahal",
+        "position": "Volunteer",
+        "website": "",
+        "startdate": "May 2019",
+        "enddate": "June 2019",
+        "summary": "Organized summer camp for underprivileged children",
+        "hidden": false
+      },
+      {
+        "_id": "620791980ad8db00498fe9a1",
+        "organisation": "Dance Club IIT Delhi",
+        "position": "Hostel Representative",
+        "website": "",
+        "startdate": "2019",
+        "enddate": "2020",
+        "summary": "Conducted & co-organized extensive dance workshops in hostel to engage freshers in the inter-hostel events of the Dance Club",
+        "hidden": false
+      }
+    ],
+    "awards": [
+      {
+        "_id": "611363d3cdefb80049b91388",
+        "title": "",
+        "date": "",
+        "awarder": "",
+        "details": "",
+        "hidden": false
+      }
+    ],
+    "publications": [
+      {
+        "_id": "611363d3cdefb80049b91389",
+        "name": "",
+        "publisher": "",
+        "releaseDate": "",
+        "website": "",
+        "summary": "",
+        "hidden": false
+      }
+    ],
+    "skills": [
+      {
+        "_id": "611363d3cdefb80049b9138a",
+        "name": "C++",
+        "level": "Option2",
+        "keywords": "",
+        "hidden": false
+      },
+      {
+        "_id": "6207909c0ad8db00498fe97b",
+        "name": "NodeJs",
+        "level": "Option2",
+        "keywords": "",
+        "hidden": false
+      },
+      {
+        "_id": "620790f40ad8db00498fe989",
+        "name": "ReactJs",
+        "level": "Option2",
+        "keywords": "",
+        "hidden": false
+      },
+      {
+        "_id": "620790f40ad8db00498fe98a",
+        "name": "JavaScript",
+        "level": "Option2",
+        "keywords": "",
+        "hidden": false
+      },
+      {
+        "_id": "620790f40ad8db00498fe98b",
+        "name": "Java",
+        "level": "Option2",
+        "keywords": "",
+        "hidden": false
+      },
+      {
+        "_id": "620790f40ad8db00498fe98c",
+        "name": "Data Structure and Algorithms",
+        "level": "Option3",
+        "keywords": "",
+        "hidden": false
+      }
+    ],
+    "languages": [
+      {
+        "_id": "611363d3cdefb80049b9138b",
+        "language": "English",
+        "fluency": "Good",
+        "hidden": false
+      },
+      {
+        "_id": "611363d3cdefb80049b9138c",
+        "language": "Hindi",
+        "fluency": "Great",
+        "hidden": false
+      },
+      {
+        "_id": "611363d3cdefb80049b9138d",
+        "language": "German",
+        "fluency": "Beginner",
+        "hidden": false
+      }
+    ],
+    "interests": [
+      {
+        "_id": "611363d3cdefb80049b9138e",
+        "name": "Video gaming",
+        "keywords": "CS:GO, Valorant",
+        "hidden": false
+      }
+    ],
+    "references": [
+      {
+        "_id": "611363d3cdefb80049b9138f",
+        "name": "",
+        "reference": "",
+        "hidden": false
+      }
+    ]
+  }
+}
