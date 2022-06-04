@@ -4,7 +4,7 @@
     "about": {
       "number": "8982600640",
       "label": "Developer",
-      "summary": "A serious looking funny guy. Stepping into Dev. Good food is good mood. \n Hi! I'm Pranjal, an undergraduate at IIT Delhi. \n I am passionate about technology and have a knack for learning things quickly and efficiently. Pursuing my interest in Tech I have recently joined Quicksell as a Backend Developer.",
+      "summary": "A serious looking funny guy. Stepping into Dev. Good food is good mood. \n Hi! I'm Pranjal, an undergraduate at IIT Delhi. \n I am passionate about technology and have a knack for learning things quickly and efficiently.",
       "imgUrl": "https://pbs.twimg.com/profile_images/538456309603913728/ihbvZL7s_400x400.jpeg"
     },
     "location": {
@@ -34,8 +34,8 @@
         "position": "Backend Developer",
         "website": "https://quicksell.co/",
         "startdate": "03/01/22",
-        "enddate": "Ongoing",
-        "summary": "Currently working as an Intern",
+        "enddate": "31/05/2022",
+        "summary": "Developed and optimized several APIs for product app & sales dashboard",
         "hidden": false
       },
       {
@@ -124,6 +124,13 @@
       {
         "_id": "620790f40ad8db00498fe98b",
         "name": "Java",
+        "level": "Option2",
+        "keywords": "",
+        "hidden": false
+      },
+      {
+        "_id": "620790f40ad72db00498fe98b",
+        "name": "PostgreSQL",
         "level": "Option2",
         "keywords": "",
         "hidden": false
